@@ -1,1 +1,1 @@
-# FreeCodeCamp_gyakorlo
+# FreeCodeCamp_gyakorlo-editalt
